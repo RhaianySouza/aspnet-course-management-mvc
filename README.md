@@ -123,7 +123,7 @@ Representa as avaliações feitas pelos usuários em relação aos cursos.<br/><
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/RhaianySouza/sistema-gestao-decursos-online.git
+   git clone https://github.com/RhaianySouza/aspnet-course-management-mvc.git
    ```
 2. Abra o projeto na sua IDE (Visual Studio, VS Code).
 3. Configure a string de conexão no arquivo `appsettings.json`.
